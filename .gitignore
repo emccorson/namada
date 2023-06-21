@@ -38,3 +38,7 @@ lcov.info
 
 # Hidden to stop from re-appearing. Moved to `tx/src/proto/generated/types.rs`.
 core/src/proto/generated/types.rs
+
+/.direnv
+
+/localnet-*.tar.gz

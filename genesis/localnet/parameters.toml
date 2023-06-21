@@ -15,6 +15,7 @@ tx_allowlist = []
 # Implicit VP WASM name
 implicit_vp = "vp_implicit"
 # Expected number of epochs per year (also sets the min duration of an epoch in seconds)
+#epochs_per_year = 35_040
 epochs_per_year = 31_536_000
 # The multiplier for masp epochs
 masp_epoch_multiplier = 2
