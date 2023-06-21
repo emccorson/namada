@@ -33,6 +33,10 @@ tnam1q9vhfdur7gadtwx4r223agpal0fvlqhywylf2mzx = "200000"
 tpknam1qpzrttnzfyt6xfu2vy092eruasll3z52rjfexwapdw0rdww5uktlk3j73dw = "200000"
 # validator-0-account-key
 tpknam1qpg2tsrplvhu3fd7z7tq5ztc2ne3s7e2ahjl2a2cddufrzdyr752g666ytj = "1000000"
+# eric
+tpknam1qptrn64myunqr4847yq4cn0uwek5ecwc7eeexjfc5npmd5kmg6ex563n5as = "1000000"
+# relayer
+tpknam1qz6vx7v8fttf3hvkl6j39q70e0l4c5y6zy24qx98gxmu4vt6k3hlkdjv85x = "1000000"
 
 [token.BTC]
 # albert
